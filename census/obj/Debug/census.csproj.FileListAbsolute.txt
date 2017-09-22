@@ -1,0 +1,14 @@
+E:\Mawaat\Projects\census\census\census\bin\Debug\census.exe.config
+E:\Mawaat\Projects\census\census\census\bin\Debug\Database1.mdf
+E:\Mawaat\Projects\census\census\census\bin\Debug\Database1_log.ldf
+E:\Mawaat\Projects\census\census\census\bin\Debug\census.exe
+E:\Mawaat\Projects\census\census\census\bin\Debug\census.pdb
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.csprojResolveAssemblyReference.cache
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.addmember.resources
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.Properties.Resources.resources
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.Teampage.resources
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.csproj.GenerateResource.Cache
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.exe
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.pdb
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.AdminForm.resources
+E:\Mawaat\Projects\census\census\census\obj\Debug\census.MainFrm.resources
